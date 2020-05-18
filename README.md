@@ -1,4 +1,5 @@
 # hello-word
-Repositorio de prueba
+Repositorio prueba
 Estoy aprendiendo a hacer un commit. en GitHub
-Y voy a hacer un cambio
+Y voy a hacer un change
+Estoy comparando cosas nuevas
